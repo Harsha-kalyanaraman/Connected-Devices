@@ -1,0 +1,1 @@
+{"name": "Temperature Sensor", "avgVal": 11.404257577514727, "maxVal": 30, "minVal": 10, "curVal": 11.404257577514727, "timeStamp": "2019-03-06 06:22:29.777297", "sampleCount": "0"}

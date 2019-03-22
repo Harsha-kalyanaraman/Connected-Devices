@@ -1,0 +1,1 @@
+{"name": "Temperature", "avgVal": 3.5, "maxVal": 20.0, "minVal": 0.0, "curVal": 4.0, "timeStamp": "2019-03-19 23:18:55.880975", "sampleCount": "2"}
